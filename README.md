@@ -1,2 +1,2 @@
 # ICT-Support
-Repository for practicing IT-Support Role
+Repository for practicing ICT-Support Role
